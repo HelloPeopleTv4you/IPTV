@@ -1,0 +1,14 @@
+{
+  "channels": [
+    {
+      "name": "Channel 1",
+      "url": "http://example.com/channel1.m3u8",
+      "logo": "http://example.com/logos/channel1.png"
+    },
+    {
+      "name": "Channel 2",
+      "url": "http://example.com/channel2.m3u8",
+      "logo": "http://example.com/logos/channel2.png"
+    }
+  ]
+}
